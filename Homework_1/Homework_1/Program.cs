@@ -13,6 +13,7 @@ namespace Homework_1
             string firstname;
             string lastname;
             string age;
+            string growth;
         }
     }
 }
